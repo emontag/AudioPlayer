@@ -1,1 +1,5 @@
+Known issues with code:
+1) Proper use of an interface for GUI so program easily adaptable
+2) Functions not used properly for all code (as byproduct of testing and addin gone feature at a time)
+3) Variable names not always clear for intended purpose
 
