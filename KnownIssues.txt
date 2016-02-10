@@ -2,5 +2,5 @@ Known issues with code:
 1) Proper use of an interface for GUI so program easily adaptable
 2) Limited commenting
 3) Variable names not always clear for intended purpose
-
+4) Problems with importing songs with special characters from a playlist file
 
